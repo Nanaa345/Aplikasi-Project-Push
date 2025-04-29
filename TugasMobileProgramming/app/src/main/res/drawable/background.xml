@@ -1,0 +1,107 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background solid -->
+    <item>
+        <shape>
+            <solid android:color="#FF121212" /> <!-- Dark Grayish Background -->
+        </shape>
+    </item>
+
+    <!-- Aura merah -->
+    <item>
+        <rotate
+            android:fromDegrees="45"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape>
+                <gradient
+                    android:type="sweep"
+                    android:centerX="0.3"
+                    android:centerY="0.5"
+                    android:startColor="#80FF5252"
+                    android:centerColor="#00FFFFFF"
+                    android:endColor="#00FFFFFF" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Aura biru -->
+    <item>
+        <rotate
+            android:fromDegrees="120"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape>
+                <gradient
+                    android:type="sweep"
+                    android:centerX="0.7"
+                    android:centerY="0.4"
+                    android:startColor="#803293FF"
+                    android:centerColor="#00FFFFFF"
+                    android:endColor="#00FFFFFF" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Aura hijau -->
+    <item>
+        <rotate
+            android:fromDegrees="200"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape>
+                <gradient
+                    android:type="sweep"
+                    android:centerX="0.2"
+                    android:centerY="0.6"
+                    android:startColor="#804CAF50"
+                    android:centerColor="#00FFFFFF"
+                    android:endColor="#00FFFFFF" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Aura oranye -->
+    <item>
+        <rotate
+            android:fromDegrees="310"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape>
+                <gradient
+                    android:type="sweep"
+                    android:centerX="0.6"
+                    android:centerY="0.7"
+                    android:startColor="#80FF9800"
+                    android:centerColor="#00FFFFFF"
+                    android:endColor="#00FFFFFF" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Sentuhan ungu -->
+    <item>
+        <rotate
+            android:fromDegrees="15"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape>
+                <gradient
+                    android:type="sweep"
+                    android:centerX="0.5"
+                    android:centerY="0.3"
+                    android:startColor="#807E57C2"
+                    android:centerColor="#00FFFFFF"
+                    android:endColor="#00FFFFFF" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Layer putih tipis buat efek blur lembut -->
+    <item>
+        <shape>
+            <solid android:color="#10FFFFFF" />
+        </shape>
+    </item>
+
+</layer-list>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tugas Mobile Programming</string>
+    <string name="register">REGISTRASI</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="birthdate">Tanggal Lahir</string>
+    <string name="address">Alamat</string>
+    <string name="submit">SUBMIT</string>
+    <string name="dashboard">PROFIL</string>
+    <string name="male">Laki Laki</string>
+    <string name="female">Perempuan</string>
+    <string name="general">PROFIL</string>
+    <string name="profile">PROFIL</string>
+    <string name="maps">Tampilkan Alamat di Maps</string>
+
+
+</resources>

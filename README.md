@@ -2,12 +2,12 @@
 
 ## Tampilan 1
 
-![Screenshot 1](Screenshots/image_1.png)
+![Screenshot 1](Screenshots/image_1.jpeg)
 
 ### Tampilan 2
 
-![Screenshot Fitur X](Screenshots/image_2.png)
+![Screenshot 2](Screenshots/image_2.jpeg)
 
 ## Tampilan 3
 
-![Screenshot Fitur X](Screenshots/image_3.png)
+![Screenshot 3](Screenshots/image_3.jpeg)
